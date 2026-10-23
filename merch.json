@@ -135,7 +135,6 @@
     "title": "It's only rock'n'roll, baby",
     "note": "Mikina",
     "views": [
-      { "src": "merch/16-front.webp", "label": "Zepředu" },
       { "src": "merch/16-back.webp", "label": "Zezadu" }
     ]
   }
