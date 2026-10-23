@@ -245,5 +245,13 @@
     "views": [
       { "src": "merch/29-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "30",
+    "title": "Ponorka",
+    "note": "Kšiltovka",
+    "views": [
+      { "src": "merch/30-cap.webp", "label": "" }
+    ]
   }
 ]
