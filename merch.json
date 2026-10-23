@@ -196,5 +196,13 @@
     "views": [
       { "src": "merch/23-poster.webp", "label": "" }
     ]
+  },
+  {
+    "id": "24",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Tričko",
+    "views": [
+      { "src": "merch/24-back.webp", "label": "Zezadu" }
+    ]
   }
 ]
