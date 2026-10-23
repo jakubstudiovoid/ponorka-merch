@@ -94,5 +94,13 @@
     "views": [
       { "src": "merch/11-front.webp", "label": "" }
     ]
+  },
+  {
+    "id": "12",
+    "title": "Ponorka",
+    "note": "Kšiltovka",
+    "views": [
+      { "src": "merch/12-cap.webp", "label": "" }
+    ]
   }
 ]
