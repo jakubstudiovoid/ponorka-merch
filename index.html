@@ -56,9 +56,13 @@
       .more:hover { color: var(--fg); }
       .num { margin: 0 0 1.5rem; font-size: 11px; letter-spacing: 0.36em; text-transform: uppercase; color: var(--accent); }
       .shot { padding: 0; }
-      .shot img { max-height: 68svh; max-width: 100%; width: auto; object-fit: contain; transition: transform 700ms ease; }
-      @media (min-width: 768px) { .shot img { max-height: 74svh; } }
-      .shot:hover img { transform: scale(1.015); }
+      .views { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: center; gap: 2rem; width: 100%; }
+      .view { display: flex; flex-direction: column; align-items: center; gap: 0.75rem; padding: 0; }
+      .view img { max-height: 62svh; max-width: min(100%, 26rem); width: auto; object-fit: contain; transition: transform 700ms ease; }
+      .views.single .view img { max-height: 72svh; max-width: min(100%, 34rem); }
+      @media (min-width: 768px) { .views.single .view img { max-height: 76svh; } }
+      .view:hover img { transform: scale(1.015); }
+      .view span { font-size: 11px; letter-spacing: 0.28em; text-transform: uppercase; color: var(--muted); }
       h2 { margin: 2rem 0 0; font-size: 1.125rem; font-weight: 500; letter-spacing: 0.08em; }
       @media (min-width: 768px) { h2 { font-size: 1.25rem; } }
       .note { margin: 0.5rem 0 0; font-size: 11px; letter-spacing: 0.32em; text-transform: uppercase; color: var(--muted); }
@@ -121,18 +125,29 @@
       sections.push(intro);
 
       pieces.forEach((piece, i) => {
+        const views = piece.views || [{ src: piece.src, label: "" }];
         const section = document.createElement("section");
         section.className = "reveal";
         section.dataset.index = String(i + 1);
-        section.innerHTML = `
-          <p class="num">${piece.id}</p>
-          <button class="shot" aria-label="Zvětšit ${piece.title}">
-            <img src="${piece.src}" alt="${piece.title}" draggable="false" />
-          </button>
-          <h2>${piece.title}</h2>
-          <p class="note">${piece.note}</p>
-        `;
-        section.querySelector(".shot").addEventListener("click", () => open(i));
+        const row = document.createElement("div");
+        row.className = "views" + (views.length === 1 ? " single" : "");
+        views.forEach((view) => {
+          const button = document.createElement("button");
+          button.className = "view";
+          button.setAttribute("aria-label", "Zvětšit " + piece.title);
+          button.innerHTML = `<img src="${view.src}" alt="${piece.title}" draggable="false" /><span>${view.label || ""}</span>`;
+          button.addEventListener("click", () => open(view.src, piece.title));
+          row.appendChild(button);
+        });
+        section.innerHTML = `<p class="num">${piece.id}</p>`;
+        section.appendChild(row);
+        const title = document.createElement("h2");
+        title.textContent = piece.title;
+        const note = document.createElement("p");
+        note.className = "note";
+        note.textContent = piece.note;
+        section.appendChild(title);
+        section.appendChild(note);
         main.appendChild(section);
         sections.push(section);
 
@@ -159,9 +174,9 @@
 
       const light = document.getElementById("light");
       const lightImg = document.getElementById("light-img");
-      function open(i) {
-        lightImg.src = pieces[i].src;
-        lightImg.alt = pieces[i].title;
+      function open(src, alt) {
+        lightImg.src = src;
+        lightImg.alt = alt;
         light.classList.add("open");
       }
       function close() { light.classList.remove("open"); }

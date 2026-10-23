@@ -1,8 +1,10 @@
 [
-  { "id": "01", "src": "merch/01-lets-drink.webp", "title": "F*ck it, let's drink", "note": "Tričko" },
-  { "id": "02", "src": "merch/02-rocknroll.webp", "title": "It's only rock'n'roll, baby", "note": "Tričko" },
-  { "id": "03", "src": "merch/03-drink-now.webp", "title": "Drink now, die later", "note": "Tričko" },
-  { "id": "04", "src": "merch/04-seal.webp", "title": "The seal", "note": "Tričko" },
-  { "id": "05", "src": "merch/05-setlist.webp", "title": "Setlist", "note": "Tričko" },
-  { "id": "06", "src": "merch/06-depth.webp", "title": "Depth", "note": "Tričko" }
+  {
+    "id": "01",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Tričko",
+    "views": [
+      { "src": "merch/01-back.webp", "label": "Zezadu" }
+    ]
+  }
 ]
