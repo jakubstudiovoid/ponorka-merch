@@ -164,5 +164,13 @@
       { "src": "merch/19-front.webp", "label": "Zepředu" },
       { "src": "merch/19-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "20",
+    "title": "Ponorka",
+    "note": "Mikina",
+    "views": [
+      { "src": "merch/20-front.webp", "label": "" }
+    ]
   }
 ]
