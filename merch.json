@@ -172,5 +172,13 @@
     "views": [
       { "src": "merch/20-front.webp", "label": "" }
     ]
+  },
+  {
+    "id": "21",
+    "title": "Ponorka",
+    "note": "Tričko",
+    "views": [
+      { "src": "merch/21-back.webp", "label": "Zezadu" }
+    ]
   }
 ]
