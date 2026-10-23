@@ -144,6 +144,7 @@
     "title": "I rock bar Ponorka",
     "note": "Tričko",
     "views": [
+      { "src": "merch/17-front.webp", "label": "Zepředu" },
       { "src": "merch/17-back.webp", "label": "Zezadu" }
     ]
   }
