@@ -111,5 +111,13 @@
       { "src": "merch/13-front.webp", "label": "Zepředu" },
       { "src": "merch/13-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "14",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Tričko",
+    "views": [
+      { "src": "merch/14-front.webp", "label": "" }
+    ]
   }
 ]
