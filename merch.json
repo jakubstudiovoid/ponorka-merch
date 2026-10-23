@@ -161,6 +161,7 @@
     "title": "Love goes through the liver",
     "note": "Mikina",
     "views": [
+      { "src": "merch/19-front.webp", "label": "Zepředu" },
       { "src": "merch/19-back.webp", "label": "Zezadu" }
     ]
   }
