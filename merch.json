@@ -48,6 +48,7 @@
     "title": "Ponorka",
     "note": "Tričko",
     "views": [
+      { "src": "merch/06-front.webp", "label": "Zepředu" },
       { "src": "merch/05-back.webp", "label": "Zezadu" }
     ]
   },
