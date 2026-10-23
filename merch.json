@@ -34,5 +34,29 @@
       { "src": "merch/04-front.webp", "label": "Zepředu" },
       { "src": "merch/04-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "05",
+    "title": "Ponorka",
+    "note": "Kšiltovka",
+    "views": [
+      { "src": "merch/05-cap.webp", "label": "" }
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Ponorka",
+    "note": "Tričko",
+    "views": [
+      { "src": "merch/05-back.webp", "label": "Zezadu" }
+    ]
+  },
+  {
+    "id": "07",
+    "title": "F*ck it, let's drink",
+    "note": "Zapalovač",
+    "views": [
+      { "src": "merch/06-lighter.webp", "label": "" }
+    ]
   }
 ]

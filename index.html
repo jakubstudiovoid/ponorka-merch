@@ -61,7 +61,7 @@
       .view img { max-height: 62svh; max-width: 100%; width: auto; object-fit: contain; transition: transform 700ms ease; }
       @media (min-width: 768px) { .view img { max-height: 68svh; max-width: 42vw; } }
       .views.single .view img { max-height: 72svh; max-width: min(100%, 34rem); }
-      @media (min-width: 768px) { .views.single .view img { max-height: 76svh; } }
+      @media (min-width: 768px) { .views.single .view img { max-height: 72svh; max-width: min(92vw, 56rem); } }
       .view:hover img { transform: scale(1.015); }
       .view span { font-size: 11px; letter-spacing: 0.28em; text-transform: uppercase; color: var(--muted); }
       h2 { margin: 2rem 0 0; font-size: 1.125rem; font-weight: 500; letter-spacing: 0.08em; }
@@ -136,7 +136,7 @@
           const button = document.createElement("button");
           button.className = "view";
           button.setAttribute("aria-label", "Zvětšit " + piece.title);
-          button.innerHTML = `<img src="${view.src}" alt="${piece.title}" draggable="false" /><span>${view.label || ""}</span>`;
+          button.innerHTML = `<img src="${view.src}" alt="${piece.title}" draggable="false" />${view.label ? `<span>${view.label}</span>` : ""}`;
           button.addEventListener("click", () => open(view.src, piece.title));
           row.appendChild(button);
         });
