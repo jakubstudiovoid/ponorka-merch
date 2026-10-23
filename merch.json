@@ -237,5 +237,13 @@
     "views": [
       { "src": "merch/28-lighter.webp", "label": "" }
     ]
+  },
+  {
+    "id": "29",
+    "title": "Ponorka",
+    "note": "Mikina",
+    "views": [
+      { "src": "merch/29-back.webp", "label": "Zezadu" }
+    ]
   }
 ]
