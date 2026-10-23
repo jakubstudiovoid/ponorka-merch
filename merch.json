@@ -293,5 +293,13 @@
     "views": [
       { "src": "merch/35-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "36",
+    "title": "I left my heart and liver",
+    "note": "Plakát",
+    "views": [
+      { "src": "merch/36-poster.webp", "label": "" }
+    ]
   }
 ]
