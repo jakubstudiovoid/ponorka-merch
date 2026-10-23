@@ -86,5 +86,13 @@
       { "src": "merch/10-front.webp", "label": "Zepředu" },
       { "src": "merch/10-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "11",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Mikina",
+    "views": [
+      { "src": "merch/11-front.webp", "label": "" }
+    ]
   }
 ]
