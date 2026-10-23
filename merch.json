@@ -285,5 +285,13 @@
     "views": [
       { "src": "merch/34-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "35",
+    "title": "I left my heart and liver",
+    "note": "Mikina",
+    "views": [
+      { "src": "merch/35-back.webp", "label": "Zezadu" }
+    ]
   }
 ]
