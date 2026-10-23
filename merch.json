@@ -188,5 +188,13 @@
     "views": [
       { "src": "merch/22-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "23",
+    "title": "F*ck it, let's drink",
+    "note": "Plakát",
+    "views": [
+      { "src": "merch/23-poster.webp", "label": "" }
+    ]
   }
 ]
