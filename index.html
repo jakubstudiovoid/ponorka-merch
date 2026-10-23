@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Ponorka Merch</title>
     <meta name="description" content="Merch Bar Ponorka. Rock music bar." />
-    <meta name="theme-color" content="#000000" />
+    <meta name="theme-color" content="#ffffff" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -14,9 +14,9 @@
     />
     <style>
       :root {
-        --bg: #000;
-        --fg: #f4f0e8;
-        --muted: #8a8175;
+        --bg: #fff;
+        --fg: #141414;
+        --muted: #6e6862;
         --accent: #c41e1e;
         --sans: "Syne", system-ui, sans-serif;
         --display: "Pirata One", serif;
@@ -26,7 +26,7 @@
       body { margin: 0; background: var(--bg); }
       button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
       a { color: inherit; text-decoration: none; }
-      ::selection { background: var(--accent); color: var(--fg); }
+      ::selection { background: var(--accent); color: #fff; }
       header {
         position: fixed; inset: 0 0 auto 0; z-index: 30;
         display: flex; align-items: center; justify-content: space-between;
@@ -70,7 +70,7 @@
       .lightbox {
         position: fixed; inset: 0; z-index: 50; display: none;
         align-items: center; justify-content: center; padding: 1rem;
-        background: rgba(0,0,0,0.95);
+        background: rgba(255,255,255,0.96);
       }
       .lightbox.open { display: flex; }
       .lightbox img { max-height: 88svh; max-width: 100%; object-fit: contain; }
