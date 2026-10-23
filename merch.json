@@ -59,5 +59,14 @@
     "views": [
       { "src": "merch/06-lighter.webp", "label": "" }
     ]
+  },
+  {
+    "id": "08",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      { "src": "merch/08-front.webp", "label": "Zepředu" },
+      { "src": "merch/08-back.webp", "label": "Zezadu" }
+    ]
   }
 ]
