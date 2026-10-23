@@ -228,5 +228,13 @@
     "views": [
       { "src": "merch/27-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "28",
+    "title": "F*ck it, let's drink",
+    "note": "Zapalovač",
+    "views": [
+      { "src": "merch/28-lighter.webp", "label": "" }
+    ]
   }
 ]
