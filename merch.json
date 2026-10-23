@@ -77,5 +77,14 @@
       { "src": "merch/09-front.webp", "label": "Zepředu" },
       { "src": "merch/09-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "10",
+    "title": "Ponorka",
+    "note": "Mikina",
+    "views": [
+      { "src": "merch/10-front.webp", "label": "Zepředu" },
+      { "src": "merch/10-back.webp", "label": "Zezadu" }
+    ]
   }
 ]
