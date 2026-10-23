@@ -117,7 +117,8 @@
     "title": "It's only rock'n'roll, baby",
     "note": "Tričko",
     "views": [
-      { "src": "merch/14-front.webp", "label": "" }
+      { "src": "merch/14-front.webp", "label": "Zepředu" },
+      { "src": "merch/14-back.webp", "label": "Zezadu" }
     ]
   }
 ]
