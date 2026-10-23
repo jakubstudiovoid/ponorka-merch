@@ -277,5 +277,13 @@
     "views": [
       { "src": "merch/33-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "34",
+    "title": "Misfits",
+    "note": "Tričko",
+    "views": [
+      { "src": "merch/34-back.webp", "label": "Zezadu" }
+    ]
   }
 ]
