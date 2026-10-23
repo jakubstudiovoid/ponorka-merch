@@ -220,5 +220,13 @@
     "views": [
       { "src": "merch/26-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "27",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      { "src": "merch/27-back.webp", "label": "Zezadu" }
+    ]
   }
 ]
