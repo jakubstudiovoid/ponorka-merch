@@ -309,5 +309,13 @@
     "views": [
       { "src": "merch/37-back.webp", "label": "Zezadu" }
     ]
+  },
+  {
+    "id": "38",
+    "title": "F*ck it, let's drink",
+    "note": "Vinyl",
+    "views": [
+      { "src": "merch/38-vinyl.webp", "label": "" }
+    ]
   }
 ]
