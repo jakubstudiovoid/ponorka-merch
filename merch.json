@@ -4,8 +4,14 @@
     "title": "It's only rock'n'roll, baby",
     "note": "Tričko",
     "views": [
-      { "src": "merch/01-front.webp", "label": "Zepředu" },
-      { "src": "merch/01-back.webp", "label": "Zezadu" }
+      {
+        "src": "merch/01-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/01-back.webp",
+        "label": "Zezadu"
+      }
     ]
   },
   {
@@ -13,8 +19,14 @@
     "title": "F*ck it, let's drink",
     "note": "Tričko",
     "views": [
-      { "src": "merch/02-front.webp", "label": "Zepředu" },
-      { "src": "merch/02-back.webp", "label": "Zezadu" }
+      {
+        "src": "merch/02-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/02-back.webp",
+        "label": "Zezadu"
+      }
     ]
   },
   {
@@ -22,8 +34,14 @@
     "title": "F*ck it, let's drink",
     "note": "Tričko",
     "views": [
-      { "src": "merch/03-front.webp", "label": "Zepředu" },
-      { "src": "merch/03-back.webp", "label": "Zezadu" }
+      {
+        "src": "merch/03-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/03-back.webp",
+        "label": "Zezadu"
+      }
     ]
   },
   {
@@ -31,299 +49,14 @@
     "title": "F*ck it, let's drink",
     "note": "Tričko",
     "views": [
-      { "src": "merch/04-front.webp", "label": "Zepředu" },
-      { "src": "merch/04-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "05",
-    "title": "Ponorka",
-    "note": "Kšiltovka",
-    "views": [
-      { "src": "merch/05-cap.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "06",
-    "title": "Ponorka",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/06-front.webp", "label": "Zepředu" },
-      { "src": "merch/05-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "07",
-    "title": "F*ck it, let's drink",
-    "note": "Zapalovač",
-    "views": [
-      { "src": "merch/06-lighter.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "08",
-    "title": "F*ck it, let's drink",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/08-front.webp", "label": "Zepředu" },
-      { "src": "merch/08-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "09",
-    "title": "F*ck it, let's drink 2026 tour",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/09-front.webp", "label": "Zepředu" },
-      { "src": "merch/09-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "31",
-    "title": "Ponorka",
-    "note": "Kšiltovka",
-    "views": [
-      { "src": "merch/31-cap.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "10",
-    "title": "Ponorka",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/10-front.webp", "label": "Zepředu" },
-      { "src": "merch/10-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "11",
-    "title": "It's only rock'n'roll, baby",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/11-front.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "12",
-    "title": "Ponorka",
-    "note": "Kšiltovka",
-    "views": [
-      { "src": "merch/12-cap.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "13",
-    "title": "F*ck it, let's drink",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/13-front.webp", "label": "Zepředu" },
-      { "src": "merch/13-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "14",
-    "title": "It's only rock'n'roll, baby",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/14-front.webp", "label": "Zepředu" },
-      { "src": "merch/14-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "15",
-    "title": "F*ck it, let's drink",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/15-front.webp", "label": "Zepředu" },
-      { "src": "merch/15-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "16",
-    "title": "It's only rock'n'roll, baby",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/16-front.webp", "label": "Zepředu" },
-      { "src": "merch/16-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "17",
-    "title": "I rock bar Ponorka",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/17-front.webp", "label": "Zepředu" },
-      { "src": "merch/17-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "18",
-    "title": "It's only rock'n'roll, baby",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/18-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "19",
-    "title": "Love goes through the liver",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/19-front.webp", "label": "Zepředu" },
-      { "src": "merch/19-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "20",
-    "title": "Ponorka",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/20-front.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "21",
-    "title": "Ponorka",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/21-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "22",
-    "title": "It's only rock'n'roll, baby",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/22-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "23",
-    "title": "F*ck it, let's drink",
-    "note": "Plakát",
-    "views": [
-      { "src": "merch/23-poster.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "24",
-    "title": "It's only rock'n'roll, baby",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/24-front.webp", "label": "Zepředu" },
-      { "src": "merch/24-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "25",
-    "title": "F*ck it, let's drink",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/25-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "26",
-    "title": "F*ck it, let's drink",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/26-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "27",
-    "title": "F*ck it, let's drink",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/27-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "28",
-    "title": "F*ck it, let's drink",
-    "note": "Zapalovač",
-    "views": [
-      { "src": "merch/28-lighter.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "29",
-    "title": "Ponorka",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/29-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "30",
-    "title": "Ponorka",
-    "note": "Kšiltovka",
-    "views": [
-      { "src": "merch/30-cap.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "32",
-    "title": "It's only rock'n'roll, baby",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/32-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "33",
-    "title": "F*ck it, let's drink",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/33-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "34",
-    "title": "Misfits",
-    "note": "Tričko",
-    "views": [
-      { "src": "merch/34-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "35",
-    "title": "I left my heart and liver",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/35-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "36",
-    "title": "I left my heart and liver",
-    "note": "Plakát",
-    "views": [
-      { "src": "merch/36-poster.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "37",
-    "title": "Ponorka",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/37-back.webp", "label": "Zezadu" }
-    ]
-  },
-  {
-    "id": "38",
-    "title": "F*ck it, let's drink",
-    "note": "Vinyl",
-    "views": [
-      { "src": "merch/38-vinyl.webp", "label": "" }
-    ]
-  },
-  {
-    "id": "39",
-    "title": "It's only rock'n'roll, baby",
-    "note": "Mikina",
-    "views": [
-      { "src": "merch/39-back.webp", "label": "Zezadu" }
+      {
+        "src": "merch/04-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/04-back.webp",
+        "label": "Zezadu"
+      }
     ]
   },
   {
@@ -331,7 +64,439 @@
     "title": "It's only rock'n'roll, baby",
     "note": "Mikina",
     "views": [
-      { "src": "merch/40-back.webp", "label": "Zezadu" }
+      {
+        "src": "merch/40-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "06",
+    "title": "Ponorka",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/06-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/05-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "07",
+    "title": "F*ck it, let's drink",
+    "note": "Zapalovač",
+    "views": [
+      {
+        "src": "merch/06-lighter.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "08",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/08-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/08-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "09",
+    "title": "F*ck it, let's drink 2026 tour",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/09-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/09-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Ponorka",
+    "note": "Kšiltovka",
+    "views": [
+      {
+        "src": "merch/31-cap.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Ponorka",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/10-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/10-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/11-front.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Ponorka",
+    "note": "Kšiltovka",
+    "views": [
+      {
+        "src": "merch/12-cap.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/13-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/13-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/14-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/14-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/15-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/15-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/16-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/16-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "I rock bar Ponorka",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/17-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/17-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/18-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Love goes through the liver",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/19-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/19-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Ponorka",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/20-front.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Ponorka",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/21-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/22-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "F*ck it, let's drink",
+    "note": "Plakát",
+    "views": [
+      {
+        "src": "merch/23-poster.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "24",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/24-front.webp",
+        "label": "Zepředu"
+      },
+      {
+        "src": "merch/24-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/25-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "26",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/26-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/27-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "F*ck it, let's drink",
+    "note": "Zapalovač",
+    "views": [
+      {
+        "src": "merch/28-lighter.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Ponorka",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/29-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Ponorka",
+    "note": "Kšiltovka",
+    "views": [
+      {
+        "src": "merch/30-cap.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "32",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/32-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "33",
+    "title": "F*ck it, let's drink",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/33-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "34",
+    "title": "Misfits",
+    "note": "Tričko",
+    "views": [
+      {
+        "src": "merch/34-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "35",
+    "title": "I left my heart and liver",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/35-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "title": "I left my heart and liver",
+    "note": "Plakát",
+    "views": [
+      {
+        "src": "merch/36-poster.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "37",
+    "title": "Ponorka",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/37-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "38",
+    "title": "F*ck it, let's drink",
+    "note": "Vinyl",
+    "views": [
+      {
+        "src": "merch/38-vinyl.webp",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "id": "39",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/39-back.webp",
+        "label": "Zezadu"
+      }
+    ]
+  },
+  {
+    "id": "05",
+    "title": "Ponorka",
+    "note": "Kšiltovka",
+    "views": [
+      {
+        "src": "merch/05-cap.webp",
+        "label": ""
+      }
     ]
   }
 ]
