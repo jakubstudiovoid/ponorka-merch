@@ -509,5 +509,16 @@
         "label": "Zezadu"
       }
     ]
+  },
+  {
+    "id": "42",
+    "title": "F*ck it, let's drink",
+    "note": "Půllitr",
+    "views": [
+      {
+        "src": "merch/42-glass.webp",
+        "label": ""
+      }
+    ]
   }
 ]
