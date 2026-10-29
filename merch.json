@@ -551,6 +551,10 @@
       {
         "src": "merch/45-back.webp",
         "label": "Zezadu"
+      },
+      {
+        "src": "merch/45-detail.webp",
+        "label": "Detail"
       }
     ]
   }
