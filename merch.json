@@ -531,5 +531,16 @@
         "label": "Zezadu"
       }
     ]
+  },
+  {
+    "id": "44",
+    "title": "Ponorka",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/44-back.webp",
+        "label": "Zezadu"
+      }
+    ]
   }
 ]
