@@ -520,5 +520,16 @@
         "label": ""
       }
     ]
+  },
+  {
+    "id": "43",
+    "title": "It's only rock'n'roll, baby",
+    "note": "Mikina",
+    "views": [
+      {
+        "src": "merch/43-back.webp",
+        "label": "Zezadu"
+      }
+    ]
   }
 ]
